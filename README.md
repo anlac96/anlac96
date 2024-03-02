@@ -20,4 +20,4 @@ I'm Lac Tran An, a passionate software developer with a focus on web development
 Feel free to explore my projects and reach out if you'd like to collaborate or discuss anything related to Java web development!
 
 ## Some utilities I've built
-- [Json Query Tool](/public/dev-tools/json-query/)
+- [Json Query Tool](https://anlac96.github.io/public/dev-tools/json-query/)
