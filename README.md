@@ -15,9 +15,10 @@ I'm Lac Tran An, a passionate software developer with a focus on web development
 ## Let's Connect:
 - GitHub: [https://github.com/anlac96](https://github.com/anlac96).
 - LinkedIn: [Lạc Trần An](https://www.linkedin.com/in/l%E1%BA%A1c-tr%E1%BA%A7n-an-b07a062ab/)
+- X: [Lac Tran An](https://x.com/LacTranAn)
 - Email: anlac96.it@gmail.com
 
 Feel free to explore my projects and reach out if you'd like to collaborate or discuss anything related to Java web development!
 
 ## Some utilities I've built
-- [Json Query Tool](https://devtoolkits.vercel.app/)
+- [Generate Java Pattern](https://anlac96.github.io/public/dev-tools/generate-java-pattern.html)
